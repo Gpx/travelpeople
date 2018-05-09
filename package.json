@@ -2,6 +2,7 @@
   "name": "travelpeople",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://www.polvara.me/travelpeople/",
   "dependencies": {
     "axios": "0.18.0",
     "faker": "4.1.0",

@@ -1,9 +1,15 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
+import React from 'react'
+import { renderIntoDocument, cleanup } from 'react-testing-library'
+import { Fabricate } from '@travelperksl/fabricator'
+import axiosMock from 'axios'
+import App from './App'
 
-it('renders without crashing', () => {
-  const div = document.createElement('div');
-  ReactDOM.render(<App />, div);
-  ReactDOM.unmountComponentAtNode(div);
-});
+afterEach(cleanup)
+
+test('the router redirects to /guess', () => {
+  axiosMock.get.mockImplementationOnce(() =>
+    Promise.resolve({ data: Fabricate.times(2, 'person') })
+  )
+  const { getByText } = renderIntoDocument(<App />)
+  expect(getByText('Guess')).toBeInTheDOM()
+})

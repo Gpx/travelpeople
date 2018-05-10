@@ -14,11 +14,12 @@ class App extends Component {
     return (
       <Router>
         <Switch>
-          <Redirect exact from="/" to="/guess" />
+          <Redirect exact from="/" to="/travelpeople/guess" />
+          <Redirect exact from="/travelpeople" to="/travelpeople/guess" />
 
-          <Route path="/guess" component={Guess} />
+          <Route path="/travelpeople/guess" component={Guess} />
 
-          <Route path="/people" component={People} />
+          <Route path="/travelpeople/people" component={People} />
         </Switch>
       </Router>
     )

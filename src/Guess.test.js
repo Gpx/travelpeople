@@ -1,3 +1,6 @@
+jest.mock('lodash.sample', () => {
+  return () => 'M'
+})
 jest.mock('lodash.samplesize', () => {
   return (array, index) => array.slice(0, index)
 })
@@ -17,7 +20,7 @@ import Guess from './Guess'
 afterEach(cleanup)
 
 test('it fetches the users and shows a random one', async () => {
-  const people = Fabricate.times(10, 'person')
+  const people = Fabricate.times(10, 'male')
   axios.get.mockImplementationOnce(() => Promise.resolve({ data: people }))
   const { getByText, getByTestId } = renderIntoDocument(
     <Router initialEntries={['/people']} initialIndex={0}>
@@ -29,12 +32,12 @@ test('it fetches the users and shows a random one', async () => {
   await wait(() => getByTestId('avatar'))
 
   people
-    .slice(0, 3)
+    .slice(0, 4)
     .forEach(person => expect(getByText(person.Name)).toBeInTheDOM())
 })
 
 test('it shows a correct message when guessing the person right', async () => {
-  const people = Fabricate.times(10, 'person')
+  const people = Fabricate.times(10, 'male')
   axios.get.mockImplementationOnce(() => Promise.resolve({ data: people }))
   const { getByText, getByTestId } = renderIntoDocument(
     <Router initialEntries={['/people']} initialIndex={0}>
@@ -50,7 +53,7 @@ test('it shows a correct message when guessing the person right', async () => {
 })
 
 test('it shows a wrong message when not guessing the person right', async () => {
-  const people = Fabricate.times(10, 'person')
+  const people = Fabricate.times(10, 'male')
   axios.get.mockImplementationOnce(() => Promise.resolve({ data: people }))
   const { container, getByText, getByTestId } = renderIntoDocument(
     <Router initialEntries={['/people']} initialIndex={0}>

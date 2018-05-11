@@ -1,4 +1,5 @@
 import React from 'react'
+import sample from 'lodash.sample'
 import sampleSize from 'lodash.samplesize'
 import shuffle from 'lodash.shuffle'
 import pick from 'lodash.pick'
@@ -10,7 +11,9 @@ class GuessState extends React.Component {
   }
 
   getGuess = () => {
-    const options = sampleSize(this.props.people, 3)
+    const sex = sample(['M', 'F'])
+    const sameSexPeople = this.props.people.filter(person => person.Sex === sex)
+    const options = sampleSize(sameSexPeople, 4)
     const currentGuess = options[0]
     return { currentGuess, options: shuffle(options) }
   }

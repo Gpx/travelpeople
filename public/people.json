@@ -9,7 +9,8 @@
     "Email": "adam@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/16-3-4.jpg",
     "Location": "Barcelona",
-    "Show": false
+    "Show": false,
+    "Sex": "M"
   },
   {
     "PersonID": 92,
@@ -20,7 +21,8 @@
     "Phone": "",
     "Email": "alba@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/92-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 34,
@@ -31,7 +33,8 @@
     "Phone": "+34654227513",
     "Email": "albert@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/34-1-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 67,
@@ -42,7 +45,8 @@
     "Phone": "",
     "Email": "alberto.maldonado@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/67-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 82,
@@ -53,7 +57,8 @@
     "Phone": "",
     "Email": "alejandra@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/82-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 87,
@@ -64,7 +69,8 @@
     "Phone": "",
     "Email": "alejandro@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/87-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 35,
@@ -75,7 +81,8 @@
     "Phone": "",
     "Email": "alex@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/35-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 137,
@@ -86,7 +93,8 @@
     "Phone": "",
     "Email": "aleksandra.stelmach@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/137-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 124,
@@ -97,7 +105,8 @@
     "Phone": "",
     "Email": "alessandra.falco@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/124-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 123,
@@ -108,7 +117,8 @@
     "Phone": "",
     "Email": "alexander.rickett@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/123-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 141,
@@ -119,7 +129,8 @@
     "Phone": "",
     "Email": "alina.vlasenko@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/141-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 81,
@@ -130,7 +141,8 @@
     "Phone": "",
     "Email": "alina@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/81-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 146,
@@ -141,7 +153,8 @@
     "Phone": "",
     "Email": "amalia@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/146-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 118,
@@ -152,7 +165,8 @@
     "Phone": "",
     "Email": "ambra@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/118-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 144,
@@ -163,7 +177,8 @@
     "Phone": "",
     "Email": "angelikatarasiuk@gmail.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/144-0-4.jpg",
-    "Location": ""
+    "Location": "",
+    "Sex": "F"
   },
   {
     "PersonID": 133,
@@ -174,7 +189,8 @@
     "Phone": "",
     "Email": "antal@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/133-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 129,
@@ -185,7 +201,8 @@
     "Phone": "",
     "Email": "arianna@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/129-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 20,
@@ -196,7 +213,8 @@
     "Phone": "",
     "Email": "avi@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/20-1-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 51,
@@ -207,7 +225,8 @@
     "Phone": "",
     "Email": "benjamin@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/51-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 85,
@@ -218,7 +237,8 @@
     "Phone": "",
     "Email": "bianca@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/85-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 45,
@@ -229,7 +249,8 @@
     "Phone": "",
     "Email": "brandon@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/45-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 103,
@@ -240,7 +261,8 @@
     "Phone": "",
     "Email": "brock@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/103-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 30,
@@ -251,7 +273,8 @@
     "Phone": "",
     "Email": "carina@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/30-1-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 109,
@@ -262,7 +285,8 @@
     "Phone": "",
     "Email": "carlos@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/109-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 149,
@@ -273,7 +297,8 @@
     "Phone": "",
     "Email": "carolina@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/149-0-4.jpg",
-    "Location": ""
+    "Location": "",
+    "Sex": "F"
   },
   {
     "PersonID": 27,
@@ -284,7 +309,8 @@
     "Phone": "",
     "Email": "chris@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/27-1-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 48,
@@ -295,7 +321,8 @@
     "Phone": "",
     "Email": "dani@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/48-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 46,
@@ -306,7 +333,8 @@
     "Phone": "",
     "Email": "dave@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/46-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 113,
@@ -317,7 +345,8 @@
     "Phone": "",
     "Email": "efi@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/113-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 98,
@@ -328,7 +357,8 @@
     "Phone": "",
     "Email": "elisa@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/98-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 110,
@@ -339,7 +369,8 @@
     "Phone": "",
     "Email": "emily@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/110-1-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 122,
@@ -350,7 +381,8 @@
     "Phone": "",
     "Email": "emily.wolff@travelperk.com",
     "Photo": "https://app.bamboohr.co.uk/employees/photos/initials.php?initials=EW",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 100,
@@ -361,7 +393,8 @@
     "Phone": "",
     "Email": "erika@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/100-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 114,
@@ -372,7 +405,8 @@
     "Phone": "",
     "Email": "eulalia@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/114-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 134,
@@ -383,7 +417,8 @@
     "Phone": "",
     "Email": "felicia.williams@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/134-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 106,
@@ -394,7 +429,8 @@
     "Phone": "",
     "Email": "fenia@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/106-1-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 116,
@@ -405,7 +441,8 @@
     "Phone": "",
     "Email": "gabriela@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/116-4-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 63,
@@ -416,7 +453,8 @@
     "Phone": "",
     "Email": "georgina@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/63-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 139,
@@ -427,7 +465,8 @@
     "Phone": "",
     "Email": "gerard@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/139-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 76,
@@ -438,7 +477,8 @@
     "Phone": "",
     "Email": "giacomo@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/76-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 56,
@@ -449,7 +489,8 @@
     "Phone": "",
     "Email": "gidi@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/56-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 40,
@@ -460,7 +501,8 @@
     "Phone": "",
     "Email": "giorgio@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/40-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 90,
@@ -471,7 +513,8 @@
     "Phone": "",
     "Email": "giuseppe@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/90-1-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 59,
@@ -482,7 +525,8 @@
     "Phone": "",
     "Email": "glenn@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/59-0-4.jpg",
-    "Location": "Remote"
+    "Location": "Remote",
+    "Sex": "M"
   },
   {
     "PersonID": 128,
@@ -493,7 +537,8 @@
     "Phone": "",
     "Email": "heidy@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/128-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 32,
@@ -504,7 +549,8 @@
     "Phone": "",
     "Email": "helena@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/32-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 42,
@@ -515,7 +561,8 @@
     "Phone": "",
     "Email": "israel@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/42-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 66,
@@ -526,7 +573,8 @@
     "Phone": 626225893,
     "Email": "ivan@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/66-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 69,
@@ -537,7 +585,8 @@
     "Phone": "",
     "Email": "jaume@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/69-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 21,
@@ -548,7 +597,8 @@
     "Phone": "",
     "Email": "javier@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/21-2-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 41,
@@ -559,7 +609,8 @@
     "Phone": "",
     "Email": "javier.tejero@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/41-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 70,
@@ -570,7 +621,8 @@
     "Phone": "+34 695 683 301",
     "Email": "jc@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/70-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 91,
@@ -581,7 +633,8 @@
     "Phone": "",
     "Email": "jordi@travelperk.com",
     "Photo": "https://app.bamboohr.co.uk/employees/photos/initials.php?initials=JC",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 148,
@@ -592,7 +645,8 @@
     "Phone": "",
     "Email": "jordi.medina@travelperk.com",
     "Photo": "https://app.bamboohr.co.uk/employees/photos/initials.php?initials=JM",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 152,
@@ -603,7 +657,8 @@
     "Phone": "",
     "Email": "jorge@travelperk.com",
     "Photo": "https://app.bamboohr.co.uk/employees/photos/initials.php?initials=JL",
-    "Location": ""
+    "Location": "",
+    "Sex": "M"
   },
   {
     "PersonID": 86,
@@ -614,7 +669,8 @@
     "Phone": "",
     "Email": "joris@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/86-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 115,
@@ -625,7 +681,8 @@
     "Phone": "",
     "Email": "juliana.dellavedova@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/115-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 126,
@@ -636,7 +693,8 @@
     "Phone": "",
     "Email": "lara@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/126-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 147,
@@ -647,7 +705,8 @@
     "Phone": "",
     "Email": "laura@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/147-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 127,
@@ -658,7 +717,8 @@
     "Phone": "",
     "Email": "lina@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/127-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 140,
@@ -669,7 +729,8 @@
     "Phone": "",
     "Email": "linzi@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/140-4-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 143,
@@ -680,7 +741,8 @@
     "Phone": "",
     "Email": "lluis@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/143-2-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 72,
@@ -691,7 +753,8 @@
     "Phone": "",
     "Email": "luca@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/72-1-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 111,
@@ -702,7 +765,8 @@
     "Phone": "",
     "Email": "lucas.adam@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/111-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 50,
@@ -713,7 +777,8 @@
     "Phone": "",
     "Email": "magdalena@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/50-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 120,
@@ -724,7 +789,8 @@
     "Phone": "",
     "Email": "marcos@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/120-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 33,
@@ -735,7 +801,8 @@
     "Phone": "",
     "Email": "maria@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/33-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 89,
@@ -746,7 +813,8 @@
     "Phone": "",
     "Email": "maxime@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/89-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 125,
@@ -757,7 +825,8 @@
     "Phone": "",
     "Email": "maxime.le-blay@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/125-1-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 79,
@@ -768,7 +837,8 @@
     "Phone": "",
     "Email": "michael@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/79-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 75,
@@ -779,7 +849,8 @@
     "Phone": "",
     "Email": "mira@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/75-0-4.jpg",
-    "Location": "Remote"
+    "Location": "Remote",
+    "Sex": "F"
   },
   {
     "PersonID": 132,
@@ -790,7 +861,8 @@
     "Phone": "",
     "Email": "miranda@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/132-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 117,
@@ -801,7 +873,8 @@
     "Phone": "",
     "Email": "molly@travelperk.com",
     "Photo": "https://app.bamboohr.co.uk/employees/photos/initials.php?initials=MJ",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 29,
@@ -812,7 +885,8 @@
     "Phone": "",
     "Email": "moritz@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/29-1-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 112,
@@ -823,7 +897,8 @@
     "Phone": "",
     "Email": "nadine@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/112-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 83,
@@ -834,7 +909,8 @@
     "Phone": "",
     "Email": "natalia@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/83-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 62,
@@ -845,7 +921,8 @@
     "Phone": "",
     "Email": "natasha@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/62-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 145,
@@ -856,7 +933,8 @@
     "Phone": "",
     "Email": "nicole@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/145-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 38,
@@ -867,7 +945,8 @@
     "Phone": "",
     "Email": "nimrod@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/38-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 138,
@@ -878,7 +957,8 @@
     "Phone": "",
     "Email": "nuria@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/138-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 130,
@@ -889,7 +969,8 @@
     "Phone": "",
     "Email": "oriol@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/130-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 80,
@@ -900,7 +981,8 @@
     "Phone": "",
     "Email": "patricia@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/80-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 119,
@@ -911,7 +993,8 @@
     "Phone": "",
     "Email": "patrick@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/119-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 108,
@@ -922,7 +1005,8 @@
     "Phone": "",
     "Email": "peer@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/108-1-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 77,
@@ -933,7 +1017,8 @@
     "Phone": "",
     "Email": "randy@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/77-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 47,
@@ -944,7 +1029,8 @@
     "Phone": "",
     "Email": "remy@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/47-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 97,
@@ -955,7 +1041,8 @@
     "Phone": "",
     "Email": "roberto@travelperk.com",
     "Photo": "https://app.bamboohr.co.uk/employees/photos/initials.php?initials=RS",
-    "Location": "Remote"
+    "Location": "Remote",
+    "Sex": "M"
   },
   {
     "PersonID": 151,
@@ -966,7 +1053,8 @@
     "Phone": "",
     "Email": "biggins.sam@gmail.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/151-0-4.jpg",
-    "Location": ""
+    "Location": "",
+    "Sex": "M"
   },
   {
     "PersonID": 105,
@@ -977,7 +1065,8 @@
     "Phone": "",
     "Email": "sara@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/105-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 43,
@@ -988,7 +1077,8 @@
     "Phone": "",
     "Email": "sergio.berna@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/43-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 131,
@@ -999,7 +1089,8 @@
     "Phone": "",
     "Email": "sigita@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/131-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 1,
@@ -1010,7 +1101,8 @@
     "Phone": 691109916,
     "Email": "silvia@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/1-3-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 88,
@@ -1021,7 +1113,8 @@
     "Phone": "",
     "Email": "silvia.muller@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/88-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 64,
@@ -1032,7 +1125,8 @@
     "Phone": "",
     "Email": "sophie@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/64-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 136,
@@ -1043,7 +1137,8 @@
     "Phone": "",
     "Email": "susanna@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/136-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 150,
@@ -1055,7 +1150,8 @@
     "Email": "hr_admin@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/150-0-4.jpg",
     "Location": "Barcelona",
-    "Show": false
+    "Show": false,
+    "Sex": "M"
   },
   {
     "PersonID": 104,
@@ -1066,7 +1162,8 @@
     "Phone": "",
     "Email": "tiziana@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/104-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "F"
   },
   {
     "PersonID": 74,
@@ -1077,7 +1174,8 @@
     "Phone": "",
     "Email": "vicenc@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/74-0-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 49,
@@ -1088,7 +1186,8 @@
     "Phone": "",
     "Email": "xavier.castellana@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/49-1-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 28,
@@ -1099,7 +1198,8 @@
     "Phone": "",
     "Email": "xavi@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/28-1-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   },
   {
     "PersonID": 93,
@@ -1110,6 +1210,7 @@
     "Phone": "",
     "Email": "yannick@travelperk.com",
     "Photo": "https://11e8ab414e230f154b0a-60f5736e66c0d75c05ea6bec2d07ca41.ssl.cf3.rackcdn.com/photos/93-1-4.jpg",
-    "Location": "Barcelona"
+    "Location": "Barcelona",
+    "Sex": "M"
   }
 ]

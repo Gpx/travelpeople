@@ -128,6 +128,7 @@ class App extends React.Component {
     const snapshot = await window.firebase
       .firestore()
       .collection('people')
+      .where('active', '==', true)
       .orderBy('name')
       .get()
 

@@ -14,6 +14,7 @@ import Play from './Play'
 const GlobalStyles = createGlobalStyle`
   html {
     background-color: #1abc9c;
+    padding-bottom: 32px;
   }
 `
 

@@ -14,6 +14,7 @@ import Play from './Play'
 const GlobalStyles = createGlobalStyle`
   html {
     background-color: #1abc9c;
+    padding-bottom: 32px;
   }
 `
 
@@ -128,6 +129,7 @@ class App extends React.Component {
     const snapshot = await window.firebase
       .firestore()
       .collection('people')
+      .where('active', '==', true)
       .orderBy('name')
       .get()
 

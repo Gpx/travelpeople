@@ -42,6 +42,10 @@ const Cards = styled.div`
   display: flex;
   & > * {
     margin: 0 16px;
+
+    @media only screen and (max-device-width: 640px) {
+      margin: 0 8px;
+    }
   }
 `
 
@@ -55,6 +59,10 @@ const Card = styled.div`
   background-color: #fff;
   padding: 16px 0;
   border-bottom: 2px solid orange;
+
+  @media only screen and (max-device-width: 640px) {
+    width: 170px;
+  }
 `
 
 const Img = styled.img`
@@ -64,6 +72,11 @@ const Img = styled.img`
   border: 8px solid #ecf0f1;
   box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 0.1);
   margin: 16px 0;
+
+  @media only screen and (max-device-width: 640px) {
+    width: 85px;
+    height: 85px;
+  }
 `
 
 const Name = styled.div`

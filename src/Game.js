@@ -12,6 +12,10 @@ const Card = styled.div`
   padding: 16px 0;
   border-bottom: 2px solid orange;
   margin: 40px auto;
+
+  @media only screen and (max-device-width: 640px) {
+    margin: 0 auto;
+  }
 `
 
 const Img = styled.img`

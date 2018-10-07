@@ -11,6 +11,10 @@ const Title = styled.div`
   font-weight: 300;
   text-align: center;
   color: #fff;
+
+  @media only screen and (max-device-width: 640px) {
+    display: none;
+  }
 `
 
 class Play extends React.Component {
@@ -19,7 +23,7 @@ class Play extends React.Component {
     showWinMessage: false,
     showErrorMessage: false,
     correct: null,
-    wrong: null,
+    wrong: null
   }
 
   componentDidMount() {

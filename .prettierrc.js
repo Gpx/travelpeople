@@ -1,5 +1,6 @@
+[warn] Ignored unknown option `{ "trailingCommans": "es5" }`. Did you mean "trailingComma"?
 module.exports = {
   semi: false,
   singleQuote: true,
-  trailingCommans: 'es5'
+  trailingComma: 'es5'
 }

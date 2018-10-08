@@ -29,7 +29,7 @@ function People() {
     <PeopleCtx.Consumer>
       {people => (
         <React.Fragment>
-          <Title>We are {people.length} people!</Title>
+          <Title>We are {people.length}!</Title>
 
           <Grid>
             {people.map(person => (

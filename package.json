@@ -4,13 +4,13 @@
   "private": true,
   "dependencies": {
     "firebase": "5.5.9",
-    "papaparse": "4.6.1",
-    "react": "16.6.0",
-    "react-dom": "16.6.0",
+    "papaparse": "4.6.2",
+    "react": "16.6.3",
+    "react-dom": "16.6.3",
     "react-router-dom": "4.3.1",
-    "react-scripts": "2.0.5",
+    "react-scripts": "2.1.1",
     "react-transition-group": "2.5.0",
-    "styled-components": "4.0.2"
+    "styled-components": "4.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -19,7 +19,7 @@
     "deploy": "npm run build && npx firebase-tools deploy"
   },
   "devDependencies": {
-    "prettier": "1.14.3"
+    "prettier": "1.15.2"
   },
   "browserslist": [
     ">0.2%",

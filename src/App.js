@@ -6,6 +6,9 @@ import {
   Redirect,
 } from 'react-router-dom'
 import styled, { createGlobalStyle } from 'styled-components'
+import firebase from 'firebase/app'
+import 'firebase/auth'
+import 'firebase/firestore'
 import Menu from './Menu'
 import People from './People'
 import Import from './Import'
@@ -72,61 +75,29 @@ class App extends React.Component {
   }
 
   loginAutomatically = async () => {
-    try {
-      const credentialString = localStorage.getItem('credential')
-      if (!credentialString) return
-      this.setState({ loginInProgress: true })
-      const credential = window.firebase.auth.GoogleAuthProvider.credential(
-        JSON.parse(credentialString)
-      )
-      const result = await window.firebase
-        .auth()
-        .signInAndRetrieveDataWithCredential(credential)
-      this.postLogin(result)
-    } catch (e) {
-      console.log(e)
-    }
-    this.setState({ loginInProgress: false })
+    firebase.auth().onAuthStateChanged(user => {
+      if(user) this.postLogin(user)
+    })
   }
 
   login = async () => {
-    try {
-      await window.firebase
-        .auth()
-        .setPersistence(window.firebase.auth.Auth.Persistence.LOCAL)
-      const provider = new window.firebase.auth.GoogleAuthProvider()
-      provider.addScope('https://www.googleapis.com/auth/contacts.readonly')
-      const result = await window.firebase.auth().signInWithPopup(provider)
-      this.postLogin(result)
-    } catch (error) {
-      const errorCode = error.code
-      const errorMessage = error.message
-      const email = error.email
-      const credential = error.credential
-      console.log(
-        'Error while loggin in',
-        errorCode,
-        errorMessage,
-        email,
-        credential
-      )
-    }
+      const provider = new firebase.auth.GoogleAuthProvider()
+      await firebase.auth().signInWithPopup(provider)
+
   }
 
-  postLogin = async data => {
-    const user = data.user
+  postLogin = async user => {
     if (!user.email.endsWith('@travelperk.com')) {
-      await window.firebase.auth().signOut()
+      await firebase.auth().signOut()
       alert('Please login with a TravelPerk email')
       return
     }
-    localStorage.setItem('credential', JSON.stringify(data.credential))
     this.setState({ user })
     this.loadPeople()
   }
 
   loadPeople = async () => {
-    const snapshot = await window.firebase
+    const snapshot = await firebase
       .firestore()
       .collection('people')
       .where('active', '==', true)
@@ -142,8 +113,7 @@ class App extends React.Component {
   }
 
   handleLogout = async () => {
-    await window.firebase.auth().signOut()
-    localStorage.setItem('credential', null)
+    await firebase.auth().signOut()
     this.setState({ user: null, people: null })
   }
 
